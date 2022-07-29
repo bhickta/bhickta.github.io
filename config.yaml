@@ -1,0 +1,15 @@
+# The first folder that contains all obsidian files
+# Use full path or relative path, but don't use ~/
+obsidian_folder_path_str: 'C:/Users/nisha/My Drive/UPSC/Notes/Himachal Pradesh' 
+
+# The note that will be used as the index.html 
+# should be in obsidian_folder_path_str
+# Use full path or relative path, but don't use ~/
+obsidian_entrypoint_path_str: 'C:/Users/nisha/My Drive/UPSC/Notes/Himachal Pradesh/Himachal Pradesh.md'
+
+navbar_links:
+  - name: Home
+    link: index.html
+  - name: Code
+    link: https://github.com/obsidian-html/obsidian-html
+    type: external
