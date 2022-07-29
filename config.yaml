@@ -13,3 +13,6 @@ navbar_links:
   - name: Code
     link: https://github.com/obsidian-html/obsidian-html
     type: external
+  - name: MCQ
+    link: Ancient Kullu.html
+    
