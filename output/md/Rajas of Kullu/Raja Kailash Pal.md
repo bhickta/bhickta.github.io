@@ -1,8 +1,0 @@
----
-tags:
-- last
-- kullu
----
-   
-# Raja Kailash Pal   
-* Dynasty-or-Surname:: **last** Pal, ruled till 1450, After him, there seem to have no Raja in Kullu for about 50 years, after Kailash Pal **kullu** was controlled by Suket, Ranas, and Thakuras.
